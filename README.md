@@ -1,5 +1,5 @@
 # Contributing to Systematix Note
-When contributing to one of our Repositories, please first discuss the change you wish to make via issue, email, or any other method with the us before making a change.
+When contributing to one of our Repositories, please first discuss the change you wish to make via issue, email, or any other method with us before making a change.
 
 Please read through the code of conduct.
 
@@ -24,7 +24,7 @@ Examples of unacceptable behavior by participants include:
 * **Public or private harassment**
 * **Publishing others' private information, such as a physical or electronic address, without explicit permission**
 
-Other conduct which could reasonably be considered inappropriate in a professional setting
+And other conduct which could reasonably be considered inappropriate in a professional setting
 
 ### Our Responsibilities
 As Project maintainers we are responsible for clarifying the standards of acceptable behavior and we will take appropriate and fair corrective action in response to any instances of unacceptable behavior.
