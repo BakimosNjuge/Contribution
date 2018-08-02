@@ -1,7 +1,7 @@
 # Contributing to Systematix Note
 When contributing to one of our Repositories, please first discuss the change you wish to make via issue, email, or any other method with us before making a change.
 
-Please read through the code of conduct.
+Please read through the code of conduct too.
 
 # Code of Conduct
 
