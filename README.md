@@ -31,7 +31,7 @@ As Project maintainers we are responsible for clarifying the standards of accept
 
 
 ## Scope
-This Code of Conduct applies both within our company scope.
+This Code of Conduct applies both within our company scope. Welcome to our open community.
 
 
 
